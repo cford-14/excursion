@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+}
+
+* { 
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.link {
+    color: green;
+}
+
+p {
+    color: grey;
+}
