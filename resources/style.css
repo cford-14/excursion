@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+* { 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.link {
+    color: green;
+}
+
+p {
+    color: grey;
+}
+
+#phone {
+    margin: 20px;
+}
